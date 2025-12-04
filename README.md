@@ -285,6 +285,7 @@ FREQUENCY = 1/31ms=31hz
 
 
 ## Result :
+
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
 
 
